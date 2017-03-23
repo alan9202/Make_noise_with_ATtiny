@@ -1,4 +1,4 @@
-# make_noise_with_ATtiny
+# Make_noise_with_ATtiny
 
 This repository contains the material used for 
 the Audio HackLab workshop called
