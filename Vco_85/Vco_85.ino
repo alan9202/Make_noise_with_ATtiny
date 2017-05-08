@@ -11,7 +11,8 @@
 ///////////////////////////////////////////////////
 
 //Simple VCO
-//AHL 2016
+//Written by Pangrus
+//2016
 
 void setup(){
   pinMode(1, OUTPUT);                                 // Pin 6 corrisponde a OC1A,PB1
