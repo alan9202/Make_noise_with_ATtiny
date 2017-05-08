@@ -12,7 +12,7 @@
 //                                               //
 //                 AutoDrum                      //  
 //         Autogenerative drum machine           //
-//            Pangrus and Paso 2017              //
+//     Written by Pangrus and Paso   (2017)      //
 //       Drum sound generation based on          //
 //      'AVR cheap bass  drum synthesis'         //
 //              by Alex Allmont                  //
