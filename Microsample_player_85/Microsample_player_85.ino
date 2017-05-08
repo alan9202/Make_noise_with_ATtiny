@@ -11,6 +11,8 @@
 ///////////////////////////////////////////////////
 
 //Microsample player 85
+//Written by Pangrus
+//2016
 
 #include <avr/pgmspace.h>
 
