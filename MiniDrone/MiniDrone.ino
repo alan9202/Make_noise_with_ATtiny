@@ -13,11 +13,13 @@
 //  Minimal Drone Machine                        //
 //  Pangrus 2017                                 //
 //  Sound generation based on "Tiny Synth v4"    //
-//  di David Johnson-Davies                      //
+//  by David Johnson-Davies                      //
 //  http://www.technoblogy.com                   //
 //  CC Attribution 4.0 International license:    //
 //  http://creativecommons.org/licenses/by/4.0/  //
 ///////////////////////////////////////////////////
+
+
 int frequenza1;
 int frequenza2;
 int Acc[]   = {0, 0, 0, 0};
