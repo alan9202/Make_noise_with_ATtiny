@@ -11,7 +11,8 @@
 ///////////////////////////////////////////////////
 
 //Note85
-//AHL 2016
+//Written by Pangrus
+//2016
 
 // Note
 const int Do  = 239;                // Clock/ Prescaler/ Frequenza nota = 8000000 Hz/ 128 / 261,6 Hz = 238,91
