@@ -1,10 +1,23 @@
-// MiniDrone
-// Minimal Drone Machine
-// Basato su "Tiny Synth v4" di David Johnson-Davies -  http://www.technoblogy.com - 27 Marzo 2016
-// Modificato da Pangrus per adattarlo all'hardware HNG (Attiny85)
-// Creative Commons Attribution 4.0 International license: 
-// http://creativecommons.org/licenses/by/4.0/
-
+///////////////////////////////////////////////////
+//                  __ __                        //
+//  .---.-.--.--.--|  |__|.-----.                //
+//  |  _  |  |  |  _  |  ||  _  |                //
+//  |___._|_____|_____|__||_____|                //
+//   __                __     __         __      //
+//  |  |--.---.-.----.|  |--.|  |.---.-.|  |--.  //
+//  |     |  _  |  __||    < |  ||  _  ||  _  |  // 
+//  |__|__|___._|____||__|__||__||___._||_____|  //
+//                                               //
+///////////////////////////////////////////////////
+//  MiniDrone                                    //
+//  Minimal Drone Machine                        //
+//  Pangrus 2017                                 //
+//  Sound generation based on "Tiny Synth v4"    //
+//  di David Johnson-Davies                      //
+//  http://www.technoblogy.com                   //
+//  CC Attribution 4.0 International license:    //
+//  http://creativecommons.org/licenses/by/4.0/  //
+///////////////////////////////////////////////////
 int frequenza1;
 int frequenza2;
 int Acc[]   = {0, 0, 0, 0};
